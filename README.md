@@ -1,6 +1,6 @@
 # 🌐 m223rx – Tic-Tac-Toe Web Game 
 
-![Weather Web App Screenshot](./assets/screenshots/home.png)
+![Tic-Tac-Toe Screenshot](./assets/screenshots/home.png)
 
 ---
 
